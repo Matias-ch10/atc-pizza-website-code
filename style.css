@@ -1,0 +1,44 @@
+h1 {
+   color: #A6430A;
+   text-align: center;
+   font-size: 2.5em;
+}
+
+p,li,td {
+    color:#4f7302;
+}
+
+h2{
+    color: #A6430A;
+    font-size: 1.8em;
+}
+
+Body{
+    background-color: #fffaf0;
+    font-family: Arial, sans-serif;
+} 
+
+a{
+    color:#f28907;
+}
+
+a:hover {
+    color:#a60303;
+}
+
+ul {
+   list-style-type: square;
+}
+
+ol {
+   list-style-type: upper-roman;
+}
+
+table {
+   border: 1px black;
+   width: 40%;
+}
+
+h2 {
+    border-bottom: 2px solid #a6430a;
+}

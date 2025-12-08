@@ -16,6 +16,8 @@ h2{
 Body{
     background-color: #fffaf0;
     font-family: Arial, sans-serif;
+    width: 800px;
+    margin: auto;
 } 
 
 a{
